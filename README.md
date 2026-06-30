@@ -23,8 +23,7 @@ At the top of your `groot.mjs` file, ensure you have the following line to tell 
 
 ```js
 #!/usr/bin/env node
-chmod +x groot.js
-./groot.js
+
 ```
 
 ---
